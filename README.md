@@ -24,3 +24,9 @@ Open http://localhost:4173 and press Play to start the music. Playback uses the 
 Custom lyrics can be added from the page using plain lines or LRC timestamps. They remain in the visitor’s browser storage.
 
 The vinyl design is inspired by TheAbieza’s Uiverse.io player supplied in the original brief. Music is played through the original YouTube video; The final surprise button plays the user-supplied MP3 in `dist/assets/thangamana-pulla.mp3`. Starting either track pauses the other.
+
+## GitHub Pages
+
+Public website: https://gobiharan1.github.io/sindu-birthday-website/
+
+GitHub Actions deploys the `dist` directory whenever its files change on `main`. The website uses relative asset paths so both the page and MP3 work under the repository URL.
