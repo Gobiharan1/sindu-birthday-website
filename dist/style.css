@@ -3,3 +3,5 @@
 /* Vinyl design inspired by Uiverse.io / TheAbieza. */
 
 #video-wrap,#youtube{height:200px;min-width:200px}
+
+.surprise{text-align:center;border-top:1px solid var(--line);padding:48px 0 65px}.surprise h2{font-family:'Playfair Display',Georgia,serif;font-size:34px;font-weight:400;margin:20px 0 26px}.surprise-button{display:inline-flex;align-items:center;justify-content:center;gap:12px;max-width:100%;line-height:1.8;padding:16px 25px;box-shadow:0 5px 20px #617b551a}.surprise-button[aria-pressed="true"]{background:#485f3c}.surprise>p{font-size:11px;color:var(--muted);margin:17px 0 0}@media(max-width:680px){.surprise{padding:40px 0 50px}.surprise-button{font-size:11px;padding:15px 18px}}

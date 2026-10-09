@@ -2,7 +2,7 @@
 
 A birthday letter from Gopi, with a sage-green vinyl player, Magale starting at 0:58, and large rotating lines from the letter.
 
-Live site: https://sindu-ma-little-universe.gobiharan.chatgpt.site (private)
+Live site: https://sindu-ma-little-universe.gobiharan.chatgpt.site (public)
 
 ## Run locally
 
@@ -23,4 +23,4 @@ Open http://localhost:4173 and press Play to start the music. Playback uses the 
 
 Custom lyrics can be added from the page using plain lines or LRC timestamps. They remain in the visitor’s browser storage.
 
-The vinyl design is inspired by TheAbieza’s Uiverse.io player supplied in the original brief. Music is played through the original YouTube video; no audio files are included.
+The vinyl design is inspired by TheAbieza’s Uiverse.io player supplied in the original brief. Music is played through the original YouTube video; The final surprise button plays the user-supplied MP3 in `dist/assets/thangamana-pulla.mp3`. Starting either track pauses the other.
